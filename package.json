@@ -1,0 +1,15 @@
+{
+  "name": "elk_apm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "moeinrahimi",
+  "license": "ISC",
+  "dependencies": {
+    "elastic-apm-node": "^3.36.0",
+    "express": "^4.18.1"
+  }
+}
